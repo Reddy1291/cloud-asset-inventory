@@ -1,0 +1,281 @@
+[
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigquerydatapolicy.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigquerydatapolicy.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigquery.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigquery.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigqueryconnection.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigqueryconnection.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "analyticshub.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/analyticshub.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigquerymigration.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigquerymigration.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "telemetry.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/telemetry.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "additionalAttributes": {
+      "projectId": "cloud-asset-inventory-510901"
+    },
+    "assetType": "cloudresourcemanager.googleapis.com/Project",
+    "createTime": "2026-10-07T01:56:09Z",
+    "displayName": "Cloud Asset Inventory",
+    "location": "global",
+    "name": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Organization",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/organizations/563624023084",
+    "project": "projects/295299802665",
+    "state": "ACTIVE"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigquerystorage.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigquerystorage.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigqueryreservation.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigqueryreservation.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "servicemanagement.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/servicemanagement.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "monitoring.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/monitoring.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "cloudapis.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/cloudapis.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "storage-api.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/storage-api.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "dataplex.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/dataplex.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "storage-component.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/storage-component.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "cloudasset.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/cloudasset.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "serviceusage.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/serviceusage.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "dataform.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/dataform.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "datastore.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/datastore.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "sql-component.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/sql-component.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "cloudtrace.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/cloudtrace.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "bigquerydatatransfer.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/bigquerydatatransfer.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "apptopology.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/apptopology.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "storage.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/storage.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  },
+  {
+    "assetType": "serviceusage.googleapis.com/Service",
+    "displayName": "logging.googleapis.com",
+    "location": "global",
+    "name": "//serviceusage.googleapis.com/projects/295299802665/services/logging.googleapis.com",
+    "organization": "organizations/563624023084",
+    "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+    "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/cloud-asset-inventory-510901",
+    "project": "projects/295299802665",
+    "state": "ENABLED"
+  }
+]

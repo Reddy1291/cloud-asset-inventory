@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "members": [
+        "user:harisiddhartha.ai@gmail.com"
+      ],
+      "role": "roles/owner"
+    }
+  ],
+  "etag": "BwZdNmtJ9kc=",
+  "version": 1
+}
